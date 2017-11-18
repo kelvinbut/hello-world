@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+Hi Kelvin, I make a new change first times!
